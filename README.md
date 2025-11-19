@@ -12,6 +12,7 @@ It includes:
 
 ##🧠 What This Project Shows
 This project answers key quantitative finance questions:
+
 ✔ How exposed are TSLA, NVDA, and AAPL to the market factor?
 (Their market beta)
 
